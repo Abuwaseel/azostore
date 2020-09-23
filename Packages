@@ -1,0 +1,17 @@
+Package: azostore.net
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer:AbuWaseel
+Depends:  mobilesubstrate
+Conflicts: 
+Filename:debs/azostorehack2KR.deb
+Size: 266738
+MD5sum:e984b9ddc3fc1a13bc64815e1260bfe3 
+SHA1: 22e36f9fd82d3388d7416bd620440d8e3ae65319
+SHA256: c5a1d1304b38073905e2fd36d56cd050c9b4a58eb7e210fb63ddb3e5fdac8e26
+Section: Tweaks
+Priority: optional
+Description: مود منيو عزوز الاصدار الثاني للنسخة الكورية
+Author: azostore
+Depiction: https://azostore.net
+© 2020 AZOSTORE
